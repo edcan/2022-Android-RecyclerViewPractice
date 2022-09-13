@@ -9,8 +9,10 @@ import kr.edcan.recyclerpractice.R
 class ListViewHolder(val view : View){
     // TODO 6. row_recycler_item.xml에서 만든 TextView 가져오기
 
-    // TODO 7. onBind 함수 작성하기
+    // TODO 9. onBind 함수 작성하기
     fun onBind(content : Int){
 
     }
+
+    // TODO 10. 리스트 아이템 클릭 이벤트
 }

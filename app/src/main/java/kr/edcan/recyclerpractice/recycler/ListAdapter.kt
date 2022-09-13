@@ -6,9 +6,9 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import kr.edcan.recyclerpractice.R
 
-// TODO 8. RecyclerView.Adapter 상속 받기
+// TODO 7. RecyclerView.Adapter 상속 받기
 class ListAdapter(val items : MutableList<Int>) {
-    // TODO 9. 함수들 정의 해주기
+    // TODO 8. 함수들 정의 해주기
 
 
 }

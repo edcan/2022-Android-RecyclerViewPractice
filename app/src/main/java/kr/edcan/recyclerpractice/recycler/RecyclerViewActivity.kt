@@ -20,18 +20,18 @@ class RecyclerViewActivity : AppCompatActivity() {
 
         val dataList = mutableListOf<Int>(1, 2, 3, 4, 5, 6)
 
-        // TODO 10. 어댑터 만들기
+        // TODO 11. 어댑터 만들기
 
 
-        // TODO 11. 어댑터 연결 해주기
+        // TODO 12. 어댑터 연결 해주기
 
 
-        // TODO 12. Layout Manager 만들어주기
+        // TODO 13. Layout Manager 만들어주기
 
 
 
         addBtn.setOnClickListener {
-            // TODO 13. 버튼 클릭할때 아이템 추가해주기
+            // TODO 14. 버튼 클릭할때 아이템 추가해주기
 
 
         }

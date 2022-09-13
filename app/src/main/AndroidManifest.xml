@@ -13,9 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RecyclerPractice"
         tools:targetApi="31">
-        <activity android:name=".recycler.RecyclerViewActivity" android:exported="true">
-
-        </activity>
+        <activity
+            android:name=".YoutubeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".recycler.RecyclerViewActivity"
+            android:exported="true"></activity>
         <activity
             android:name=".ListViewActivity"
             android:exported="true">
